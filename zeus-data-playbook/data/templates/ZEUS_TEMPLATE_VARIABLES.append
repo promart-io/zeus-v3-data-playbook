@@ -9,4 +9,5 @@
 1009|GET_HOSTS_FROM|env|1005
 1010|REDIS_MASTER_SERVICE_HOST|redis-master-db-connection|1005
 1011|GET_HOSTS_FROM|env|1006
-1012|REDIS_MASTER_SERVICE_HOST|redis-slave-db-connection|1006
+1012|REDIS_MASTER_SERVICE_HOST|redis-master-db-connection|1006
+1013|REDIS_SLAVE_SERVICE_HOST|redis-slave-db-connection|1006
